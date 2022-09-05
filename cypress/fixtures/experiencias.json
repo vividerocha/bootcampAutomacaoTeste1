@@ -1,0 +1,18 @@
+[
+    {
+        "posicao": "QA",
+        "empresa": "Via",
+        "local": "SP",
+        "dataInicio": "01/01/2020",
+        "dataFim": "01/10/2021",
+        "descricao" :"teste de software"
+    },
+    {
+        "posicao": "Dev",
+        "empresa": "Google",
+        "local": "SP",
+        "dataInicio": "02/10/2021",
+        "dataFim": "10/03/2022",
+        "descricao" :"desenvolvimento de software"
+    }
+]

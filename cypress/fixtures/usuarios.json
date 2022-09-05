@@ -1,0 +1,12 @@
+[
+    {
+        "login" : "vivianeteste@bootcamp.com", 
+        "senha" : "123654"
+    }
+    ,
+    {
+        "login":"viviteste2@botcamp.com",
+        "senha":"123457"
+    }
+]
+

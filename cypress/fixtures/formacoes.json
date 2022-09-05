@@ -1,0 +1,21 @@
+[
+    {
+        "escola": "Harvard",
+        "grau": "Superior",
+        "curso": "Tecnologia da Informação",
+        "inicio": "01/01/2004",
+        "fim": "01/12/2008",
+        "descricao": "Graduação"
+
+    },
+    {
+        "escola": "MIT",
+        "grau": "Superior",
+        "curso": "Data Science",
+        "inicio": "01/01/2009",
+        "fim": "01/12/2013",
+        "descricao": "Graduação"
+
+    }
+
+]
