@@ -1,0 +1,15 @@
+{
+        "company": "Cia Fantasma",
+        "status": "Status teste",
+        "location": "DF",
+        "website": "http://www.google.com",
+        "skills": "DEV",
+        "bio": "Developer",
+        "githubusername": "github.com/teste",
+        "youtube": "http://www.youtube.com",
+        "twitter": "http://www.twitter.com",
+        "facebook": "http://www.facebook.com",
+        "linkedin": "http://www.linkedin.com",
+        "instagram": "http://www.instagram.com",
+        "medium": "http://medium.com"
+}
